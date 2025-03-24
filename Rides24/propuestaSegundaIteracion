@@ -1,12 +1,36 @@
+PRPOUESTA SEGUNDA ITERACION:  
+
+CASOS DE USO NUEVOS + LINK GITHUB 
+
+Aitor Milicua, Julen Domínguez y Jokin Izaguirre 
+
+ 
+
 En esta entrega vamos a añadir 4 casos de uso a nuestra aplicación de viajes para la asignatura de Ingeniería del Software. Los casos de uso han sido elegidos para mejorar nuestra aplicación y hacerla más completa. Además de los casos de uso nuevos hemos añadido la razón por la que creemos que es interesante añadir estas funcionalidades. 
+
+También hemos subido nuestro proyecto a GitHub con el propósito de que sea más sencillo acceder al proyecto y controlar los cambios hechos. 
+
+ 
+
+https://github.com/amilicua001/rides/tree/master/Rides24 
+
+ 
+ 
 
 PARA DRIVER: 
 
 Aceptar o rechazar solicitudes de reserva: El driver debe poder gestionar las solicitudes de reserva de los travelers. Esto le da el control sobre qué personas se suben a su viaje. Además, permite que el driver rechace solicitudes si ya tiene el cupo completo o si no se siente cómodo con el perfil del viajero. Este caso de uso mejora la flexibilidad y control del driver sobre sus viajes. 
 
-Actualizar la disponibilidad de asientos: El driver debe poder actualizar la cantidad de asientos disponibles en sus viajes, por ejemplo, si un pasajero cancela su reserva o si decide agregar más asientos. Esto es una funcionalidad básica de actualización de datos. 
-
  
+
 PARA TRAVELER: 
 
+Crear reseña: Los traveler podrán crear reseñas de un viaje que haya finalizado. Este caso de uso implica una clase nueva donde la reseña tendrá una valoración (1-5), una fecha y un texto con la reseña.  
+
+ 
+
 Cancelar o modificar una reserva: Es importante que los usuarios tengan la flexibilidad de modificar o cancelar sus reservas en caso de cambios en sus planes de viaje. Esto no solo mejora la experiencia del usuario, sino que también puede aumentar la confianza en tu aplicación, ya que los viajeros aprecian la capacidad de gestionar sus reservas sin complicaciones. 
+
+Ver el estado de una reserva (pendiente, confirmada, cancelada): El traveler debería poder consultar el estado actual de sus reservas para saber si han sido aceptadas, si están pendientes o si han sido canceladas. Esto ofrece transparencia y tranquilidad al usuario. 
+
+ 
