@@ -6,7 +6,9 @@ que debemos añadir un monedero para cargar dinero, hacer pagos etc. cosa que no
 OBLIGATORIO:
 
 1)El product owner nos ha mencionado que debemos añadir un monedero para cargar dinero, hacer pagos etc. cosa que nosotros ya tenemos implementado
+
 2)  El product owner nos ha propuesto hacer un caso de uso que implique emails. En nuestro caso, hemos decidido que un driver al aceptar una reserva, se le enviará al traveler un correo que su solicitud ha sidio aceptada
+   
 3) El prpoduct owner nos ha propuesto un caso de uso que implique ver imagenes. Nosotros vamos a añadir que un traveler al hacer una reserva pueda ver una imagen del vehiculo del driver.
 
 OPCIONAL:
